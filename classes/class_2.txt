@@ -1,0 +1,13 @@
+Class = Kitchen
+
+Attributes
+typeOfDish (string)
+numberOfCooks (integer)
+foodWeight1 (float)
+hasDishwasherStaff (boolean)
+
+Methods
+changeDishType (updates typeOfDish)
+hireCook (adds 1 to numberOfCooks)
+measureFoodWeight1 (uses/displays foodWeight1)
+noDishes (updates hasDishwasherStaff)
