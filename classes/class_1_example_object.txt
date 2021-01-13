@@ -1,0 +1,14 @@
+Class = Food Menu
+Instance/Object = Pizza Hut Lunch Menu
+
+Attributes
+insideFontColor = "Red"
+pizzaPrice = 13.33
+numberOfEntrees = 9
+isBreakfastMenu = false
+
+Methods
+changeFontColor => insideFontColor = "Green"
+addPizzaPrice => pizzaPrice = 14.33
+displayEntrees => numberOfEntrees = 9
+changeLunchTime => isBreakfastMenu = false
