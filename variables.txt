@@ -1,0 +1,13 @@
+var food = "Tacos";
+var is_delicious = true;
+food = "Hamburger";
+var num2 = 2;
+var num7 = 7;
+var quotient = num7 / num2;
+var songs = ["Baby Shark", "Let It Go", "Don't Stop Me Now"];
+
+songs.shift();
+console.log(songs); // returns with "Baby Shark" removed
+
+var foodLength = food.length;
+console.log(foodLength);  // displays number of characters in food variable
