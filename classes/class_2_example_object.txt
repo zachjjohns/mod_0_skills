@@ -1,0 +1,14 @@
+Class = Kitchen
+Instance = Chipotle Line Kitchen
+
+Attributes
+typeOfDish = "Mexican Food"
+numberOfCooks = 4
+foodWeight1 = 6.5
+hasDishwasherStaff = true
+
+Methods
+changeDishType => typeOfDish = "Dessert"
+hireCook => numberOfCooks = 5
+measureFoodWeight1 => foodWeight1 = 6.5
+noDishes => hasDishwasherStaff = false
