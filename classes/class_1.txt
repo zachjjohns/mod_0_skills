@@ -1,0 +1,13 @@
+Class = Food Menu
+
+Attributes
+insideFontColor (string)
+pizzaPrice (float)
+numberOfEntrees (integer)
+isBreakfastMenu (boolean)
+
+Methods
+changeFontColor (updates insideFontColor)
+addPizzaPrice (modifies pizzaPrice)
+displayEntrees (uses numberOfEntrees)
+changeLunchTime (updates isBreakfastMenu)
