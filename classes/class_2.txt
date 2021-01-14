@@ -1,13 +1,13 @@
 Class = Kitchen
 
 Attributes
-typeOfDish (string)
+entreeType (string)
 numberOfCooks (integer)
-foodWeight1 (float)
-hasDishwasherStaff (boolean)
+meatPortion (float)
+needDishwasherStaff (boolean)
 
 Methods
-changeDishType (updates typeOfDish)
+changeEntreeType (updates entreeType)
 hireCook (adds 1 to numberOfCooks)
-measureFoodWeight1 (uses/displays foodWeight1)
-noDishes (updates hasDishwasherStaff)
+addDoubleMeat (multiplies meatPortion by 2)
+washDishes (updates needDishwasherStaff to false)

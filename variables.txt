@@ -1,5 +1,5 @@
 var food = "Tacos";
-var is_delicious = true;
+var isDelicious = true;
 food = "Hamburger";
 var num2 = 2;
 var num7 = 7;

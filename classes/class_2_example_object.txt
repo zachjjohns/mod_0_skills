@@ -2,13 +2,13 @@ Class = Kitchen
 Instance = Chipotle Line Kitchen
 
 Attributes
-typeOfDish = "Mexican Food"
+entreeType = "Burrito"
 numberOfCooks = 4
-foodWeight1 = 6.5
-hasDishwasherStaff = true
+meatPortion = 8.6
+needDishwasherStaff = true
 
 Methods
-changeDishType => typeOfDish = "Dessert"
+changeEntreeType => entreeType = "Nachos"
 hireCook => numberOfCooks = 5
-measureFoodWeight1 => foodWeight1 = 6.5
-noDishes => hasDishwasherStaff = false
+addDoubleMeat => meatPortion = 16.2
+washDishes => needDishwasherStaff = false
